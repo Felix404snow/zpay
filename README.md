@@ -16,6 +16,9 @@
     <td valign="middle">
       <strong>feito por Gabriel Félix ("isnouu")</strong>
     </td>
+    <td valign="middle" align="right">
+      <img src="https://zpaysolution.com/images/zayladeitada.png" alt="Zayla" height="140" />
+    </td>
   </tr>
 </table>
 
