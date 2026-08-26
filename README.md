@@ -2,25 +2,26 @@
   <img src="https://zpaysolution.com/images/zpayabanner.png" alt="Z.PAY" width="100%" />
 </p>
 
-<table>
-  <tr>
-    <td width="160" valign="middle">
-      <img
-        src="https://i.pinimg.com/736x/40/c5/2d/40c52da2c014d773367ad145c627e949.jpg"
-        alt="Gabriel Félix"
-        width="140"
-        height="140"
-        style="border-radius: 9999px; object-fit: cover;"
-      />
-    </td>
-    <td valign="middle">
-      <strong>feito por Gabriel Félix ("isnouu")</strong>
-    </td>
-    <td valign="middle" align="right">
-      <img src="https://zpaysolution.com/images/zayladeitada.png" alt="Zayla" height="140" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img
+    align="left"
+    src="https://i.pinimg.com/736x/40/c5/2d/40c52da2c014d773367ad145c627e949.jpg"
+    alt="Gabriel Félix"
+    width="140"
+    height="140"
+    style="border-radius: 9999px; object-fit: cover;"
+  />
+  <img
+    align="right"
+    src="https://zpaysolution.com/images/zayladeitada.png"
+    alt="Zayla"
+    height="140"
+  />
+  <br/><br/><br/>
+  &nbsp;&nbsp;&nbsp;<strong>feito por Gabriel Félix ("isnouu")</strong>
+</p>
+<br clear="all"/>
+
 
 ---
 
