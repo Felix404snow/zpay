@@ -1,12 +1,12 @@
-﻿# Como gerar pagamento
+# Como gerar pagamento
 
 <p align="center">
   <img src="https://zpaysolution.com/images/zaylaapontando.png" alt="Zayla" height="120" />
 </p>
 
-ÔåÉ [Voltar ao README](../README.md)
+← [Voltar ao README](../README.md)
 
-Gera uma cobran├ºa Pix com QR Code e copia e cola.
+Gera uma cobrança Pix com QR Code e copia e cola.
 
 ## Endpoint
 
@@ -20,7 +20,7 @@ client-secret: zsk_...
 Content-Type: application/json
 ```
 
-As chaves ficam na aba **API** do [painel](https://zpaysolution.com/). O `client-secret` s├│ aparece uma vez.
+As chaves ficam na aba **API** do [painel](https://zpaysolution.com/). O `client-secret` só aparece uma vez.
 
 ### Body
 
@@ -33,12 +33,12 @@ As chaves ficam na aba **API** do [painel](https://zpaysolution.com/). O `client
 }
 ```
 
-| Campo | Obrigat├│rio | Notas |
+| Campo | Obrigatório | Notas |
 | --- | --- | --- |
-| `amount` | sim | BRL, m├¡nimo **R$ 2,00** |
+| `amount` | sim | BRL, mínimo **R$ 2,00** |
 | `payerName` | sim | Nome exibido no Pix |
-| `description` | n├úo | Texto da cobran├ºa |
-| `tag` | n├úo | Liga o pagamento a uma tag do painel |
+| `description` | não | Texto da cobrança |
+| `tag` | não | Liga o pagamento a uma tag do painel |
 
 ### Exemplo (curl)
 
